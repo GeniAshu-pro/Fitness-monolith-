@@ -1,2 +1,3 @@
 here You will see 
-My project:fitnessApp  tadaaaa!!! 
+My project:
+Fitness Tracker  tadaaaa!!! 
